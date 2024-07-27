@@ -1,4 +1,4 @@
-# Target Dataset Analysis
+# Dataset Analysis
 
 ## Overview
 This project involves analyzing the Target dataset from Kaggle to answer various business-related questions through SQL queries. The dataset includes information on customers, orders, products, and sales.
